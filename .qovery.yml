@@ -1,0 +1,11 @@
+---
+application:
+  name: "minecraftbotua"
+  project: "mineflayerbot"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-minecraftbotua"
+  routes:
+  - application_name: "minecraftbotua"
+    paths:
+    - "/*"
