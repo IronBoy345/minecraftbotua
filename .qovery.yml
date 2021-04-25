@@ -1,7 +1,7 @@
 ---
 application:
   name: "minecraftbotua"
-  project: "mineflayerbot"
+  project: "mineflayerplayer"
   organization: "QoveryCommunity"
 routers:
 - name: "main-minecraftbotua"
